@@ -1,3 +1,5 @@
+# NOTICE: Owl Cafe is moving away from binary modules. This will remain for research purposes
+
 # gm_binarytable
 Another way to store a table to a file
 
